@@ -22,7 +22,7 @@ For free tier users:
 Get started by upgrading Gemini CLI to the latest version (0.21.1):
 
 ```bash
-npm install -g @google/gemini-cli@latest
+npm install -g @smitronix/gemini-cli@latest
 ```
 
 After you’ve confirmed your version is 0.21.1 or later:

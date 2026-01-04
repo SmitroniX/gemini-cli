@@ -3,11 +3,12 @@
   "displayName": "Gemini CLI Companion",
   "description": "Enable Gemini CLI with direct access to your IDE workspace.",
   "version": "0.24.0-nightly.20251227.37be16243",
-  "publisher": "google",
+  "author": "SmitroniX",
+  "publisher": "smitronix",
   "icon": "assets/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/google-gemini/gemini-cli.git",
+    "url": "https://github.com/SmitroniX/gemini-cli.git",
     "directory": "packages/vscode-ide-companion"
   },
   "engines": {

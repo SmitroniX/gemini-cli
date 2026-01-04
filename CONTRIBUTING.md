@@ -178,7 +178,7 @@ development setup of this project.
 To clone the repository:
 
 ```bash
-git clone https://github.com/google-gemini/gemini-cli.git # Or your fork's URL
+git clone https://github.com/SmitroniX/gemini-cli.git # Or your fork's URL
 cd gemini-cli
 ```
 
